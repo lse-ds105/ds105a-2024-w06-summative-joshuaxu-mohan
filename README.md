@@ -5,7 +5,7 @@ In this repository, you will find Jupyter Notebook(s), csv files, visualised dat
 
 ***"Is London really as rainy as the movies make it out to be?"***
 
-![image](../ds105a-2024-w06-summative-joshuaxu-mohan/TitleImage.png)
+![image](./TitleImage.png)
 
 *Source: [GencraftAI](https://gencraft.com/generate)*
 
