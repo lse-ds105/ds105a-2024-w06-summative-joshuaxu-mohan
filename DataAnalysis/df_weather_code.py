@@ -48,3 +48,7 @@ def weather_code_sort(list: list):
 WC = df.loc['Weather code'].apply(weather_code_sort)
 
 dfWC = pd.DataFrame(WC.tolist(), index=WC.index)
+
+dfRS = df.loc[['Rain sum'],].explode(df.columns.to_list(), ignore_index=True)
+
+dfPH = df.loc[['Precipitation hours'],].explode(df.columns.to_list(), ignore_index=True)
