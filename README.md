@@ -24,8 +24,10 @@ To do this, the parameters of the comparison is as follows:
 To simply follow along my exploratory process to answer the question, it will be sufficient to simply follow the Jupyter Notebooks in the following order:
 1. [Jupyter Notebook of Randomiser](../ds105a-2024-w06-summative-joshuaxu-mohan/Sampling/Randomiser.ipynb)
 2. [Jupyter Notebook of Data Collection](../ds105a-2024-w06-summative-joshuaxu-mohan/DataCollection/DataCollection.ipynb)
-3. [Jupyter Notebook of Data Visualisation](../ds105a-2024-w06-summative-joshuaxu-mohan/DataAnalysis/DataAnalysis.ipynb)
-4. Visualised Data
-5. Conclusion
+3. [Jupyter Notebook of Data Analysis](../ds105a-2024-w06-summative-joshuaxu-mohan/DataAnalysis/DataAnalysis.ipynb)
+4. [Jupyter Notebook of Data Visualisation](./DataAnalysis/DataVisualisation.ipynb)
+
 
 Using VSCode/Nuvolos, you can run the code cells under the approrpiate Python environment (3.10+).
+
+Enjoy!
