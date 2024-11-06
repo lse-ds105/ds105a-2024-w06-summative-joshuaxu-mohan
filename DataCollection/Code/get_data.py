@@ -3,7 +3,7 @@ import requests
 
 def get_data(city_name, country_code):
 
-    with open('../world_cities.csv') as file:
+    with open('../Data/world_cities.csv') as file:
 
             lines = file.read().split('\n')
         
